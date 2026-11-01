@@ -10,7 +10,7 @@ A one-page website for a plumber in Cebu City, built with Claude Code.
 - **Three services on one pipe:** Leak repair, Drain cleaning, Water heater. Water flows down a pipe that links the three cards, each with its own call link.
 - **WhatsApp chat preview:** "Send a photo. Get a price.", with a button to start the chat
 - **Moving strip of barangays** around Cebu City
-- **"Tawag na!" closing** with a second Call now button
+- **"Call us now." closing** with a second Call now button
 - **Floating WhatsApp button** that stays in reach while scrolling
 - **Footer:** "Built by Nyl Bhoy Oreas"
 

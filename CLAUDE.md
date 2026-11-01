@@ -30,7 +30,7 @@ A one-page website for **Santos Plumbing, Cebu City**. Everything lives in `inde
 
 ## Copy
 
-Short, plain and local. The Bisaya lines ("Nagtulo? Barado? Bugnaw ang shower?", "Tawag na!") are part of the brand voice, so always pair them with English so everyone understands. Say what we fix and how to reach us. No slogans or filler, and don't make claims the business hasn't confirmed (licences, years in business, prices).
+Short, plain and local. Everything is in English except the Bisaya lines (the hero headline "Nagtulo? Barado? Bugnaw ang shower?" and the small tags on the service cards). They are the brand voice, so keep them in Bisaya, not Tagalog, and always next to English. Say what we fix and how to reach us. No slogans or filler, and don't make claims the business hasn't confirmed (licences, years in business, prices).
 
 ## Before calling a change done
 
