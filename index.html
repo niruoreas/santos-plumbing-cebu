@@ -149,6 +149,8 @@ h2 em{font-style:italic;color:var(--sea-3)}
 .big span{color:var(--sun)}
 .close p{position:relative;margin:14px auto 0;max-width:380px;color:rgba(255,255,255,.8)}
 .close .cta{position:relative;margin:26px auto 0}
+.close .big{color:#fff;max-width:none}
+.close .cta{justify-content:center;align-items:stretch}
 
 /* ---------- footer ---------- */
 footer{background:var(--ink);color:rgba(255,255,255,.62);padding:26px 0 calc(100px + env(safe-area-inset-bottom));font-size:.9rem;text-align:center}
@@ -186,6 +188,9 @@ footer p+p{margin-top:4px}
   .card a{margin-top:auto}
   .chat-in{grid-template-columns:1fr auto;gap:60px}
   .areas{padding:64px 0}
+  .tick{max-width:1100px;margin:22px auto 0;padding:0 var(--pad);mask-image:none}
+  .tick ul{flex-wrap:wrap;flex:1;padding-right:0;animation:none}
+  .tick ul[aria-hidden]{display:none}
 }
 </style>
 </head>
