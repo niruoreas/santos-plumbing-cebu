@@ -18,7 +18,7 @@ A one-page website for **Santos Plumbing, Cebu City**. Everything lives in `inde
 
 - One request for the page. Keep CSS inline and icons as inline SVG.
 - No web fonts (system font stack only), no images, no external scripts. If an image is ever added, use WebP or AVIF, give it width and height, and lazy-load anything below the fold.
-- Keep `index.html` under about 20 KB.
+- Keep `index.html` under about 30 KB. Illustrations and motion are inline SVG + CSS keyframes, never GIFs or video.
 
 ## Mobile rules (390px is the main target)
 
@@ -26,11 +26,11 @@ A one-page website for **Santos Plumbing, Cebu City**. Everything lives in `inde
 - Every tap target is at least 48px tall. The Call now button is the biggest thing on the screen.
 - No sideways scrolling from 320px to 1920px.
 - Nothing important sits under the floating WhatsApp button. The footer has extra bottom padding for it, so keep that.
-- Respect `prefers-reduced-motion` and keep a visible `:focus-visible` outline.
+- Every animation (drip, waves, pipe flow, ticker, ringing button) must stop under `prefers-reduced-motion`. Keep a visible `:focus-visible` outline.
 
 ## Copy
 
-Short, plain and local. Say what we fix and how to reach us. No slogans or filler, and don't make claims the business hasn't confirmed (licences, years in business, prices).
+Short, plain and local. The Bisaya lines ("Nagtulo? Barado? Bugnaw ang shower?", "Tawag na!") are part of the brand voice, so always pair them with English so everyone understands. Say what we fix and how to reach us. No slogans or filler, and don't make claims the business hasn't confirmed (licences, years in business, prices).
 
 ## Before calling a change done
 
